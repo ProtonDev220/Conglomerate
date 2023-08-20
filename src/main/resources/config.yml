@@ -1,0 +1,5 @@
+# Set http://localhost:25575/file (or custom port) as the resourcepack location
+# in server.properties
+#
+# Port to host resourcepack
+port: 25575

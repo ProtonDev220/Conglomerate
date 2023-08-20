@@ -1,0 +1,4 @@
+name: Conglomerate
+version: '${project.version}'
+main: org.joshp.conglomerate.Conglomerate
+load: STARTUP
